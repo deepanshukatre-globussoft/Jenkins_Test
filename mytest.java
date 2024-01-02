@@ -5,5 +5,8 @@ public class mytest{
         System.out.println("This is Hello world program1");
         System.out.println("This is Hello world program");
         System.out.println(new Date());
+
+        
+        System.out.println("Added new line comment");//added comment
     }
 }
